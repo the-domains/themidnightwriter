@@ -1,24 +1,15 @@
-color:
-  brandStrength: 0.8974201923701912
-  saturation: 0.9308128687553108
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  lightness: 0.5277697613928467
-  rhythmicContrast: 0.6809748986270279
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  version: null
-  bucket: null
-  domain: null
+layout_spectrum: 0.6509275
 favicon: null
-layout_spectrum: 0.2527460802812129
+name: themidnightwriter
+purpose: []
+analytics:
+  facebook: null
+  google: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -31,10 +22,19 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-name: themidnightwriter
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.2170931547880173
+cta:
+  domain: null
+  version: null
+  bucket: null
+color:
+  brandStrength: 0.8974201923701912
+  saturation: 0.9308128687553108
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  lightness: 0.5277697613928467
+  rhythmicContrast: 0.6809748986270279
+typography_spectrum: 0.4131535
