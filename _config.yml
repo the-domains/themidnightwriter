@@ -1,15 +1,7 @@
-layout_spectrum: 0.6509275
-favicon: null
 name: themidnightwriter
-purpose: []
-analytics:
-  facebook: null
-  google: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.6509275
+typography_spectrum: 0.4131535
 collections:
   - index:
       navigable: true
@@ -24,17 +16,25 @@ collections:
       path: '/:title/'
 cta:
   domain: null
-  version: null
   bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.8974201923701912
-  lightness: 0.6315346
-  saturation: 0.9308129
-  rhythmicContrast: 0.5244519
   brandColors:
     - '#000000'
     - '#535353'
     - '#828282'
     - '#B5B5B5'
     - '#EEEEEE'
-typography_spectrum: 0.4131535
+  brandStrength: 0.25
+  lightness: 0.6315346
+  saturation: 0.9308129
+  rhythmicContrast: 0.5244519
+purpose: []
