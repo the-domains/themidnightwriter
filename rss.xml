@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[themidnightwriter]]></title>
+        <description><![CDATA[themidnightwriter]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 31 May 2016 20:16:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Vacationing the Gold Coast of Florida</p>]]></description>
+            <link>undefinedvacationing-the-gold-coast-of-florida/index.html</link>
+            <guid isPermaLink="false">582ef39c-31fe-45ae-8da7-6a8b1a1dc49d</guid>
+            <pubDate>Tue, 31 May 2016 20:16:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
